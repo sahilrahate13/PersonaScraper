@@ -1,0 +1,241 @@
+
+================================================================================
+                        REDDIT USER PERSONA REPORT
+================================================================================
+
+USERNAME: u/kojied
+ANALYSIS DATE: 2025-07-15
+ACCOUNT AGE: 2020 days
+TOTAL POSTS: 31
+TOTAL COMMENTS: 100
+KARMA: 2039
+
+================================================================================
+                            PERSONA OVERVIEW
+================================================================================
+
+REPRESENTATIVE QUOTE: Am I not the same as they are, just at a longer time horizon?
+Citations:
+  1. [POST] Am I not the same as they are, just at a longer time horizon?...
+     Source: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+     Subreddit: r/newyorkcity | Score: 0
+
+
+
+================================================================================
+                            DEMOGRAPHICS
+================================================================================
+
+ESTIMATED AGE: 28-35
+Citations:
+  1. [UNKNOWN] I feel violated by intern season...Today when I went to the bar and all of a sudden I felt like I wa...
+     Subreddit: r/unknown | Score: 0
+
+  2. [POST] I've only been here for three years as well...
+     Source: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+     Subreddit: r/newyorkcity | Score: 0
+
+
+
+OCCUPATION: iOS Developer
+Citations:
+  1. [POST] Hey I’m an iOS developer building in visionOS....
+     Source: https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/
+     Subreddit: r/visionosdev | Score: 4
+
+
+
+LOCATION: New York City
+Citations:
+  1. [UNKNOWN] There's this bar that I frequent a few blocks away from my house...Generally has a mature vibe with ...
+     Subreddit: r/unknown | Score: 0
+
+  2. [POST] As I walk back home, all of a sudden I realize that there were now tens of thousands of 18 year-old ...
+     Source: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+     Subreddit: r/newyorkcity | Score: 0
+
+
+
+RELATIONSHIP STATUS: Unknown
+
+
+================================================================================
+                            PERSONALITY & VALUES
+================================================================================
+
+PERSONALITY TYPE: Observant, analytical, tech-savvy, somewhat cynical, and introspective.
+Citations:
+  1. [POST] I feel violated by intern season...
+     Source: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+     Subreddit: r/newyorkcity | Score: 0
+
+  2. [POST] Am I not the same as they are, just at a longer time horizon?...
+     Source: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+     Subreddit: r/newyorkcity | Score: 0
+
+  3. [POST] I’m curious if people have been able to fully port their workflow into AVP....
+     Source: https://reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/
+     Subreddit: r/VisionPro | Score: 3
+
+  4. [COMMENT] the NFT craze has not settled into something sustainable, it's dead....
+     Source: https://reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/mvt4t5c/
+     Subreddit: r/NFT | Score: 5
+
+
+
+INTERESTS: iOS development, VisionOS, spatial computing, video games (Civilization V, Manor Lords, Pokemon),  New York City nightlife,  technology (Apple Vision Pro, ChatGPT), anime (Edgerunners), NFTs (formerly)
+Citations:
+  1. [UNKNOWN] 'civ5', 'VisionPro', 'ManorLords', 'OnePiece', 'ChatGPT', 'AskNYC', 'Watching Edgerunners on the moo...
+     Subreddit: r/unknown | Score: 0
+
+
+
+VALUES: Technological advancement, efficiency, understanding different perspectives (as seen in his reflection on the age gap at the bar), personal growth and possibly financial success (considering his investment in AVP)
+Citations:
+  1. [POST] Can you actually “work” in AVP?...
+     Source: https://reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/
+     Subreddit: r/VisionPro | Score: 3
+
+  2. [UNKNOWN] I already dropped $4k on this device......
+     Subreddit: r/unknown | Score: 0
+
+  3. [POST] Am I not the same as they are, just at a longer time horizon?...
+     Source: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+     Subreddit: r/newyorkcity | Score: 0
+
+
+
+================================================================================
+                            BEHAVIORAL PATTERNS
+================================================================================
+
+COMMUNICATION STYLE: Thoughtful, detailed, and inquisitive, sometimes expressing a sense of frustration or cynicism.
+Citations:
+  1. [POST] I feel violated by intern season...
+     Source: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+     Subreddit: r/newyorkcity | Score: 0
+
+  2. [POST] Can you actually “work” in AVP?...
+     Source: https://reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/
+     Subreddit: r/VisionPro | Score: 3
+
+  3. [COMMENT] the NFT craze has not settled into something sustainable, it's dead....
+     Source: https://reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/mvt4t5c/
+     Subreddit: r/NFT | Score: 5
+
+
+
+ONLINE BEHAVIOR: Active participant in discussions, mostly on technology and gaming related subreddits; expresses opinions and asks questions.
+Citations:
+  1. [POST] What needs to happen for the league to review the inconsistencies of the refs?...
+     Source: https://reddit.com/r/nba/comments/1hcopxo/what_needs_to_happen_for_the_league_to_review_the/
+     Subreddit: r/nba | Score: 1
+
+  2. [POST] What’s a movie that best represents your childhood?...
+     Source: https://reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/
+     Subreddit: r/GenZ | Score: 6
+
+  3. [POST] Best blogs, tutorial channels to learn...
+     Source: https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/
+     Subreddit: r/visionosdev | Score: 4
+
+
+
+ACTIVITY PATTERNS: Unknown
+
+
+================================================================================
+                            MOTIVATIONS & GOALS
+================================================================================
+
+PRIMARY MOTIVATIONS: Learning about and adopting new technologies, improving his skills as an iOS developer, and engaging in thoughtful discussions about various topics.
+Citations:
+  1. [POST] Best blogs, tutorial channels to learn...
+     Source: https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/
+     Subreddit: r/visionosdev | Score: 4
+
+  2. [POST] Can you actually “work” in AVP?...
+     Source: https://reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/
+     Subreddit: r/VisionPro | Score: 3
+
+  3. [POST] What needs to happen for the league to review the inconsistencies of the refs?...
+     Source: https://reddit.com/r/nba/comments/1hcopxo/what_needs_to_happen_for_the_league_to_review_the/
+     Subreddit: r/nba | Score: 1
+
+
+
+FRUSTRATIONS: Inconsistencies in refereeing, lack of late-game content in video games, limitations of the Apple Vision Pro for professional workflows, and the seemingly dead NFT market.
+Citations:
+  1. [POST] What needs to happen for the league to review the inconsistencies of the refs?...
+     Source: https://reddit.com/r/nba/comments/1hcopxo/what_needs_to_happen_for_the_league_to_review_the/
+     Subreddit: r/nba | Score: 1
+
+  2. [COMMENT] I do too but I rarely finish a game haha. Too little late game content...
+     Source: https://reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/n1i5k2p/
+     Subreddit: r/ManorLords | Score: 3
+
+  3. [POST] I’ve been trying to actually use the Vision Pro to get some work done, but without github and visual...
+     Source: https://reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/
+     Subreddit: r/VisionPro | Score: 3
+
+  4. [COMMENT] I see so many one-off posts on this community with only a couple responses. Can't believe there's 2....
+     Source: https://reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/mvt4t5c/
+     Subreddit: r/NFT | Score: 5
+
+
+
+GOALS: To master VisionOS development, to successfully integrate his workflow into the Apple Vision Pro, and potentially to contribute to the Pokemon Go integration with Apple Vision Pro.
+Citations:
+  1. [POST] Best blogs, tutorial channels to learn...
+     Source: https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/
+     Subreddit: r/visionosdev | Score: 4
+
+  2. [POST] Can you actually “work” in AVP?...
+     Source: https://reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/
+     Subreddit: r/VisionPro | Score: 3
+
+  3. [POST] Would you guys like to see Pokemon Go in AVP?...
+     Source: https://reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/
+     Subreddit: r/VisionPro | Score: 18
+
+
+
+================================================================================
+                            TECHNICAL PROFILE
+================================================================================
+
+TECH SAVVINESS: High
+Citations:
+  1. [POST] Hey I’m an iOS developer building in visionOS....
+     Source: https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/
+     Subreddit: r/visionosdev | Score: 4
+
+  2. [POST] Killer feature: accessing chatGPT (iPad app) and using audio as primary input...
+     Source: https://reddit.com/r/VisionPro/comments/1alf7av/killer_feature_accessing_chatgpt_ipad_app_and/
+     Subreddit: r/VisionPro | Score: 4
+
+  3. [POST] Can you actually “work” in AVP?...
+     Source: https://reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/
+     Subreddit: r/VisionPro | Score: 3
+
+
+
+PREFERRED PLATFORMS: Apple products (Mac, iPad, Vision Pro), Reddit, ChatGPT
+Citations:
+  1. [POST] Killer feature: accessing chatGPT (iPad app) and using audio as primary input...
+     Source: https://reddit.com/r/VisionPro/comments/1alf7av/killer_feature_accessing_chatgpt_ipad_app_and/
+     Subreddit: r/VisionPro | Score: 4
+
+  2. [POST] I’m curious if people have been able to fully port their workflow into AVP....
+     Source: https://reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/
+     Subreddit: r/VisionPro | Score: 3
+
+  3. [POST] I could use Mac virtual display, but since I have a M1 MBP the latency is noticeable...
+     Source: https://reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/
+     Subreddit: r/VisionPro | Score: 3
+
+
+
+================================================================================
+                            END OF REPORT
+================================================================================
